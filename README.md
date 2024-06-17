@@ -47,6 +47,11 @@ the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-ru
 - [X] 00_intro
 - [X] 01_integers
 - [X] 02_variable
+- [X] 03_if_else
+- [X] 04_panics
+- [X] 05_factorial
+- [X] 06_while
+- [X] 07_for
 
 # License
 
