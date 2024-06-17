@@ -52,6 +52,7 @@ the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-ru
 - [X] 05_factorial
 - [X] 06_while
 - [X] 07_for
+- [X] 08_overflow
 
 # License
 
