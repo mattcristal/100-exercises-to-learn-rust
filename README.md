@@ -53,6 +53,8 @@ the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-ru
 - [X] 06_while
 - [X] 07_for
 - [X] 08_overflow
+- [X] 09_saturating
+- [X] 10_as_casting
 
 # License
 
