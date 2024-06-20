@@ -56,6 +56,14 @@ the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-ru
 - [X] 09_saturating
 - [X] 10_as_casting
 
+### 03_ticket_v1
+
+- [X] 00_intro
+- [X] 01_struct
+- [X] 02_validation
+- [X] 03_modules
+- [X] 04_visibility
+
 # License
 
 Copyright © 2024- Mainmatter GmbH (https://mainmatter.com), released under the
