@@ -63,6 +63,8 @@ the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-ru
 - [X] 02_validation
 - [X] 03_modules
 - [X] 04_visibility
+- [X] 05_encapsulation
+- [X] 06_ownership
 
 # License
 
