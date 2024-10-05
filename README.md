@@ -47,6 +47,24 @@ the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-ru
 - [X] 00_intro
 - [X] 01_integers
 - [X] 02_variable
+- [X] 03_if_else
+- [X] 04_panics
+- [X] 05_factorial
+- [X] 06_while
+- [X] 07_for
+- [X] 08_overflow
+- [X] 09_saturating
+- [X] 10_as_casting
+
+### 03_ticket_v1
+
+- [X] 00_intro
+- [X] 01_struct
+- [X] 02_validation
+- [X] 03_modules
+- [X] 04_visibility
+- [X] 05_encapsulation
+- [X] 06_ownership
 
 # License
 
